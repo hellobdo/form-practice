@@ -2,13 +2,6 @@
 
 const formFields = document.querySelectorAll("#collectionForm input");
 const form = document.getElementById("collectionForm");
-const email = document.getElementById("email");
-const country = document.getElementById("country");
-const postalCode = document.getElementById("postalCode");
-const password = document.getElementById("password");
-const passwordConfirmation = document.getElementById("passwordConfirmation");
-const submit = document.getElementById("submit");
-
 
 // main value field checker
 
